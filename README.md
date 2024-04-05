@@ -1,7 +1,7 @@
 ## SECURE HASH FUNCTION (SHA)
 ## DATE :
 ## AIM:
-Develop a program to implement Secure Hash Algorithm (SHA-1)
+Develop a program to implement Secure Hash Algorithm (SHA-1).
 ## SECURED HASH ALGORITHM-1 (SHA-1):
 ```
 Step 1: Append Padding Bits….
